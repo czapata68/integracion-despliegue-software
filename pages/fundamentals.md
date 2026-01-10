@@ -1,0 +1,12 @@
+# DevOps Fundamentals
+- Evolution of software development
+- Waterfall, Agile, and DevOps
+- Traditional software delivery challenges
+- DevOps as culture, practices, and operating model
+- CALMS principles
+- The Three Ways of DevOps
+- DevOps and business continuity
+- DevOps in modern organizations
+- DORA metrics
+- DevOps vs SRE
+- DevOps vs Platform Engineering
