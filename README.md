@@ -1,6 +1,6 @@
 # Software Integration and Deployment – Complete Topic List
 
-## 1. DevOps Fundamentals
+## [1. DevOps Fundamentals](pages/fundamentals.md)
 - Evolution of software development
 - Waterfall, Agile, and DevOps
 - Traditional software delivery challenges

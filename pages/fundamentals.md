@@ -1,4 +1,6 @@
 # DevOps Fundamentals
+
+![DevOps Fundamentals](../images/devops_fundamentals.png)
 - Evolution of software development
 - Waterfall, Agile, and DevOps
 - Traditional software delivery challenges
